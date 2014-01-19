@@ -44,12 +44,12 @@ nav a:hover { color: #fff; background-color: rgba(255,255,255,.15); }
 .promo_container .promo {
 	width: auto;
 	float: none;
-	padding: 10px 0px 0px 0px;
+	padding: 10px 0px 0px 30px;
 	background-position: 20px 13px;
 	border-top: 1px solid #ccc;
 }
 
-.promo_container .promo .content { padding: 0px 20px 5px 90px; }
+.promo_container .promo .content { padding: 0px 90px 5px 90px; }
 
 
 footer { border-top: 1px solid #a6abc5; }
